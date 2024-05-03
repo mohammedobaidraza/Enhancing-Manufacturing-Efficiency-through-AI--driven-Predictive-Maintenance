@@ -18,13 +18,9 @@ To run this script, you need Python installed on your machine along with the fol
 - numpy
 - sklearn
 - matplotlib
-
-You can install all required packages using the following command:
-```bash
-pip install pandas numpy sklearn matplotlib
-Usage
 To run the script, navigate to the directory containing the file and run:
 python predictivestudyproject.py
+
 Contribution
 Contributions are welcome! If you have improvements or bug fixes, please feel free to fork the repository and submit a pull request.
 
@@ -32,12 +28,19 @@ License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Authors
-Your Name - Initial work - YourGithubProfile
+Your Name - Initial work - https://github.com/mohammedobaidraza
 Acknowledgments
 Hat tip to anyone whose code was used
 Inspiration
 etc.
-You can adjust this template according to the specific details of your project, such as the dataset description, specific Python packages used, or any additional features of your script.
+
+You can install all required packages using the following command:
+```bash
+pip install pandas numpy sklearn matplotlib
+Usage
+e according to the specific details of your project, such as the dataset description, specific Python packages used, or any additional features of your script.
+
+
 
 
 
