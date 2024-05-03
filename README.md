@@ -28,7 +28,7 @@ License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Authors
-Your Name - Initial work - https://github.com/mohammedobaidraza
+Initial work - https://github.com/mohammedobaidraza
 Acknowledgments
 Hat tip to anyone whose code was used
 Inspiration
