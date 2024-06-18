@@ -22,7 +22,7 @@ To run the script, navigate to the directory containing the file and run:
 python predictivestudyproject.py
 
 Contribution
-Contributions are welcome! If you have improvements or bug fixes, please feel free to fork the repository and submit a pull request
+Contributions are welcome! If you have improvements or bug fixes, please feel free to fork the repository and submit a pull request.
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
